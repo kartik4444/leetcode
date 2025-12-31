@@ -1,23 +1,31 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> s = new Stack<>();
-
-        for(String token : tokens){
-
-            if(token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/"))
-            {
-                 //evaluate operations and push back in stack
-                   int num2 = s.pop();
-                   int num1 = s.pop();
-                   if(token.equals("+")) s.push(num1+num2);
-                   else if(token.equals("-")) s.push(num1-num2);
-                   else if(token.equals("*")) s.push(num1*num2);
-                   else if(token.equals("/")) s.push(num1/num2);
-            }
-            else{
-                s.push(Integer.parseInt(token));
+        int returnValue = 0;
+        String operators = "+-*/";
+        Stack<String> stack = new Stack<String>();
+        for (String t : tokens) {
+            if (!operators.contains(t)) {
+                stack.push(t);
+            } else {
+                int a = Integer.valueOf(stack.pop());
+                int b = Integer.valueOf(stack.pop());
+                switch (t) {
+                    case "+":
+                        stack.push(String.valueOf(a + b));
+                        break;
+                    case "-":
+                        stack.push(String.valueOf(b - a));
+                        break;
+                    case "*":
+                        stack.push(String.valueOf(a * b));
+                        break;
+                    case "/":
+                        stack.push(String.valueOf(b / a));
+                        break;
+                }
             }
         }
-        return s.pop();
+        returnValue = Integer.valueOf(stack.pop());
+        return returnValue;
     }
 }
