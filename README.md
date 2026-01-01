@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -68,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
