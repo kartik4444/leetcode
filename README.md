@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik4444/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
