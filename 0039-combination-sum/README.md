@@ -23,6 +23,8 @@ These are the only two combinations.
 <strong>Output:</strong> [[2,2,2,2],[2,3,3],[3,5]]
 </pre>
 
+<p><img src="recursion_tree.png" alt="Recursion Tree for [2,3,5] with target=8" width="600"></p>
+
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
