@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/kartik4444/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kartik4444/leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
