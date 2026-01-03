@@ -1,3 +1,18 @@
+/*
+Iterate through every cell in the board and treat each as a possible starting point
+Start DFS only when the current cell matches the first character of the word
+Use DFS to explore the word character by character
+If index == word.length(), all characters are matched → return true
+Return false when indices go out of bounds or characters don’t match
+Mark a cell as visited by temporarily replacing its value (e.g. '#')
+Explore all four directions: up, down, left, and right
+If any recursive call returns true, the word exists in the board
+After exploring, restore the original character (backtracking)
+Backtracking allows reuse of cells for other search paths
+Time complexity: O(m × n × 4^L) where L is word length
+Space complexity: O(L) due to recursion stack
+*/
+
 class Solution {
     public boolean exist(char[][] board, String word) {
         // Step 1: Iterate through every cell as a potential starting point
