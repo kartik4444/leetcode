@@ -12,7 +12,6 @@ Backtracking allows reuse of cells for other search paths
 Time complexity: O(m × n × 4^L) where L is word length
 Space complexity: O(L) due to recursion stack
 */
-
 class Solution {
     public boolean exist(char[][] board, String word) {
         // Step 1: Iterate through every cell as a potential starting point
