@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
+| [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 ## Depth-First Search
 |  |
@@ -135,4 +136,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kartik4444/leetcode/tree/master/0031-next-permutation) |
+| [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
