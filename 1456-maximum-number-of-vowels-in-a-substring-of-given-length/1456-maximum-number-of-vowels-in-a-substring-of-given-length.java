@@ -1,27 +1,26 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        String vowels = "aeiou";
-        String res = "";
-        int maxCount = 0, count = 0;
-        int left = 0;
-        int right = 0;
-        int n = s.length();
-        while (right < n) {
-            char ch = s.charAt(right);
-            if (vowels.contains(String.valueOf(ch)))
+        int left = 0, count = 0, maxCount = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+            if (isVowel(s.charAt(right))) { //whenever vowel found add it in possible count
                 count++;
-            res += ch;
+            }
 
             if (right - left + 1 == k) {
-                //shrink the window
+                //shrink the windows
                 maxCount = Math.max(maxCount, count);
-                if (vowels.contains(String.valueOf(s.charAt(left)))) //removing vowel count if found during shrinking
+
+                if (isVowel(s.charAt(left))) { // decreasing count if left char found to be vowel during shrinking
                     count--;
-                res.substring(left + 1);//removing left char for shrinking
+                }
                 left++;
             }
-            right++;
         }
         return maxCount;
+    }
+
+    private boolean isVowel(char ch) {
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
 }
