@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/kartik4444/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
 ## Linked List
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/kartik4444/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik4444/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik4444/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/kartik4444/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik4444/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/kartik4444/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
