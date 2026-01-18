@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/kartik4444/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kartik4444/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Queue
 |  |
 | ------- |
