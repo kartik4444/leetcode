@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kartik4444/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/kartik4444/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/kartik4444/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kartik4444/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kartik4444/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
