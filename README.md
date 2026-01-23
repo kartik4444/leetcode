@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 ## Design
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartik4444/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik4444/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik4444/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartik4444/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/kartik4444/leetcode/tree/master/0374-guess-number-higher-or-lower) |
