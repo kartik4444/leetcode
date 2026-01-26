@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik4444/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartik4444/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik4444/leetcode/tree/master/0018-4sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik4444/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartik4444/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik4444/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kartik4444/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/kartik4444/leetcode/tree/master/1095-find-in-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik4444/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
