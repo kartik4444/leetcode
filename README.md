@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1446-consecutive-characters](https://github.com/kartik4444/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik4444/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
