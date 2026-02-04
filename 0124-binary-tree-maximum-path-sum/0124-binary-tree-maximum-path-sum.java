@@ -15,24 +15,23 @@
  */
 class Solution {
     private int res = Integer.MIN_VALUE;
+
     public int maxPathSum(TreeNode root) {
-         dfs(root);
-         return res;
-    }
-    private int getMax(TreeNode root){
-        if(root==null) return 0;
-        int left = getMax(root.left);
-        int right = getMax(root.right);
-        int path = root.val + Math.max(left,right);
-        return Math.max(0,path);
+        dfs(root);
+        return res;
     }
 
-    private void dfs(TreeNode root){
-        if(root==null) return;
-        int left = getMax(root.left);
-        int right = getMax(root.right);
-        res = Math.max(res,root.val+left+right);
-        dfs(root.left);
-        dfs(root.right);
+    private int dfs(TreeNode root) {
+        if (root == null)
+            return 0;
+
+        int leftmax = Math.max(dfs(root.left),0);
+        int rightmax = Math.max(dfs(root.right),0);
+
+        //calculate sum with split , means path including this node
+        res = Math.max(res, root.val + leftmax + rightmax);
+
+        //return max sum without split path
+        return root.val + Math.max(leftmax, rightmax);
     }
 }
